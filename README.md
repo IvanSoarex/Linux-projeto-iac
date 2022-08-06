@@ -1,0 +1,2 @@
+# Linux-projeto-iac
+Projeto de Infraestrutura como código: Script de criação de estrutura de usuários, diretórios e permissões.
